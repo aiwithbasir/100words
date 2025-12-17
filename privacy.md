@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 100 Words Privacy Policy
+title: Privacy Policy
 ---
 
 # Privacy Policy
