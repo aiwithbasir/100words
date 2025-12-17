@@ -1,3 +1,8 @@
+---
+layout: page
+title: 100 Words Privacy Policy
+---
+
 # Privacy Policy
 
 **App Name:** 100 Words  
