@@ -1,3 +1,8 @@
+---
+layout: page
+title: Terms & Conditions
+---
+
 # Terms & Conditions
 
 **App Name:** 100 Words  
