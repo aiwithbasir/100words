@@ -3,8 +3,6 @@ layout: page
 title: Privacy Policy
 ---
 
-# Privacy Policy
-
 **App Name:** 100 Words  
 **Last updated:** 2025-12-15
 
