@@ -3,8 +3,6 @@ layout: page
 title: Terms & Conditions
 ---
 
-# Terms & Conditions
-
 **App Name:** 100 Words  
 **Last updated:** 2025-12-15
 
